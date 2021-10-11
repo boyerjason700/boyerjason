@@ -23,7 +23,7 @@
 - [UFO Finder](https://boyerjason700.github.io/UFOs/)
 - [Mapping Earthquakes](https://github.com/boyerjason700/Mapping_Earthquakes)
 - [Surfs Up](https://github.com/boyerjason700/Surfs_up)
-- [Project 5 Title](http://example.com/)
+<!-- - [Project 5 Title](http://example.com/) -->
 
 ---
 
