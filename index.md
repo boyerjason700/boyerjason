@@ -12,7 +12,7 @@
 <img src="images/citi.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Belly Button Biodiversity](https://boyerjason700.github.io/Belly_Button_Biodiversity/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
