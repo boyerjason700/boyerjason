@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### PROJECTS 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Movies-Extract:Transform:Load](https://github.com/boyerjason700/MoviesETL)
+<img src="images/Movies.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
