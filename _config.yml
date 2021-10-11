@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/jason-boyer7/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a "/images/Jason Boyer-RESUME-2021 (1).pdf?">View My Resume</a> 
   
   
 theme: jekyll-theme-minimal
