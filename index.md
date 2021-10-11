@@ -13,7 +13,7 @@
 
 ---
 [Belly Button Biodiversity](https://boyerjason700.github.io/Belly_Button_Biodiversity/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bbb.PNG?raw=true"/>
 
 ---
 
