@@ -19,10 +19,10 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Mission to Mars](https://github.com/boyerjason700/Mission_to_Mars)
+- [UFO Finder](https://boyerjason700.github.io/UFOs/)
+- [Mapping Earthquakes](https://github.com/boyerjason700/Mapping_Earthquakes)
+- [Surfs Up](https://github.com/boyerjason700/Surfs_up)
 - [Project 5 Title](http://example.com/)
 
 ---
