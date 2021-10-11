@@ -8,8 +8,8 @@
 <img src="images/Movies.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[citiBike Analysis](https://boyerjason700.github.io/Bike_Sharing/)
+<img src="images/citi.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
